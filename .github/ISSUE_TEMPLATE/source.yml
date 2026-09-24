@@ -1,0 +1,48 @@
+name: 推荐信息源 / 报告失效 · Suggest a source / report a dead link
+description: 推荐一个看新产品的信息源，或报告清单里失效的来源 / Suggest a place to discover products, or report one that stopped working
+title: "[Source] "
+labels: ["source"]
+body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: 类型 / Type
+      options:
+        - 推荐新信息源 / New source
+        - 报告失效或变化 / Dead or changed source
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: 名称 / Name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: 网址 / URL
+      placeholder: https://
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: 说明 / Details
+      description: 看什么、更新频率、怎么订阅（RSS / API / 只能看网页）、数据可不可信；如果是报告失效，写你看到了什么 / What you get, how often it updates, how to follow it, how reliable it is; for dead links, what you saw
+    validations:
+      required: true
+  - type: input
+    id: evidence
+    attributes:
+      label: 仍在更新的依据 / Evidence it's active
+      description: 例如最新一条内容的日期 / e.g. the date of its latest post
+  - type: dropdown
+    id: relation
+    attributes:
+      label: 你和这个平台的关系 / Your relationship to the platform
+      options:
+        - 无关 / None
+        - 我是运营者 / I run it
+    validations:
+      required: true

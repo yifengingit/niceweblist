@@ -1,0 +1,54 @@
+name: 推荐优秀案例 / Recommend a case study
+description: 推荐一个收入可以核实的 Web 产品 / Suggest a web product with verifiable revenue
+title: "[Case] "
+labels: ["case"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        入选标准见 [CONTRIBUTING.md](https://github.com/yifengingit/niceweblist/blob/main/CONTRIBUTING.md)。收入必须能核实，截图和自己报的数字不算。
+        See [CONTRIBUTING.md](https://github.com/yifengingit/niceweblist/blob/main/CONTRIBUTING.md) for criteria. Revenue must be verifiable; screenshots and self-reported numbers don't count.
+  - type: input
+    id: name
+    attributes:
+      label: 产品名称 / Product name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: 产品网址 / Product URL
+      placeholder: https://
+    validations:
+      required: true
+  - type: input
+    id: revenue_proof
+    attributes:
+      label: 收入信号链接 / Revenue proof link
+      description: 例如 TrustMRR 产品页 / e.g. the product's TrustMRR page
+      placeholder: https://trustmrr.com/startup/...
+    validations:
+      required: true
+  - type: dropdown
+    id: tier
+    attributes:
+      label: 档位 / Tier
+      options:
+        - 可复制的小产品（MRR 约 $1k–$50k，≤5 人，无融资）/ Replicable small product
+        - 标杆（独立开发者起家、后来做大）/ Benchmark
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: 为什么值得学？/ Why is it worth studying?
+      description: 可选，1–2 句 / Optional, 1–2 sentences
+  - type: dropdown
+    id: relation
+    attributes:
+      label: 你和这个产品的关系 / Your relationship to the product
+      options:
+        - 无关 / None
+        - 我是创始人或团队成员 / I'm the founder or on the team
+    validations:
+      required: true
