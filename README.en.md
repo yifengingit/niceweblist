@@ -167,6 +167,16 @@ Content creation tool · ~$3k MRR ([verified on TrustMRR](https://trustmrr.com/s
 
 Found on: [TrustMRR](#whos-actually-making-money) · Last verified: 2026-09
 
+#### [TapeSearch](https://www.tapesearch.com/)
+
+Search tool · ~$4.3k MRR, ~$92k all-time ([verified on TrustMRR](https://trustmrr.com/startup/tapesearch), 2026-09) · Solo · Not for sale
+
+**What it is**: A search engine for podcast transcripts. It uses AI to turn podcasts into timestamped text you can search in full, set keyword alerts on, chart topic trends from, or pull through an API.
+
+**What to learn**: The data is the acquisition channel. Each of roughly 5 million episodes gets a public page with a summary and the start of the transcript; the full transcript needs a login, and every page is listed in the sitemap for search engines. The people who pay are market researchers, financial analysts and journalists who need to find things said on podcasts. Pricing is $16.66 / $31 / $60 a month (billed annually), and the top tier sells API access. The founder has only a few hundred followers on X, so this isn't riding a personal audience. Monthly revenue has stayed between $3.7k and $5k for the past 12 months: no breakout, but steady for almost four years.
+
+Found on: [TrustMRR](#whos-actually-making-money) · Last verified: 2026-09
+
 #### [Data Bloo](https://www.databloo.com/)
 
 Analytics · ~$6.1k MRR, ~$650k all-time ([verified on TrustMRR](https://trustmrr.com/startup/data-bloo), 2026-09) · Solo (per public sources) · Not for sale
