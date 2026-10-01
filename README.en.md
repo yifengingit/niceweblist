@@ -157,6 +157,16 @@ Vertical SaaS · ~$1.1k MRR ([verified on TrustMRR](https://trustmrr.com/startup
 
 Found on: [TrustMRR](#whos-actually-making-money) · Last verified: 2026-09
 
+#### [AI Toolbox](https://www.ai-toolbox.co/)
+
+Browser extension · ~$1.3k MRR, but ~$22k revenue in the last 30 days ([verified on TrustMRR](https://trustmrr.com/startup/ai-toolbox), 2026-10) · 2–5 people · For sale
+
+**What it is**: A Chrome extension that adds folders, full-text search, a prompt library and bulk export to the web apps of ChatGPT, Gemini, Claude and Grok. Formerly ChatGPT Toolbox.
+
+**What to learn**: AI chat web apps are missing ways to organize conversations, and it fills the gap with an extension. It started with ChatGPT only and later expanded to four platforms, so the same users can buy more than once. Most revenue is one-time: each platform costs $9.99/month, $59/year or $99 lifetime, and all four together are $199 lifetime. That's why TrustMRR shows only ~$1.3k MRR next to ~$22k in revenue over the last 30 days; over the past year, monthly revenue grew from ~$2.3k to ~$22k. Like ShipFast, one-time sales mean it always needs new buyers: the free tier covers every feature but caps each one (search shows only the first 5 results, only 2 folders), and the Chrome Web Store lists about 40,000 users with a 4.7 rating. The risk is that it's built on someone else's page: when a platform redesigns or ships these features itself, the extension has to keep up.
+
+Found on: [TrustMRR](#whos-actually-making-money) · Last verified: 2026-10
+
 #### [Publbee](https://www.publbee.com/)
 
 Content creation tool · ~$3k MRR ([verified on TrustMRR](https://trustmrr.com/startup/publbee), 2026-09) · 2–5 people · For sale

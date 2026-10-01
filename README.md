@@ -155,6 +155,16 @@
 
 发现于：[TrustMRR](#看谁在赚钱) · 最后核实：2026-09
 
+#### [AI Toolbox](https://www.ai-toolbox.co/)
+
+浏览器扩展 · 约 $1.3k MRR，但近 30 天收入约 $2.2 万（[TrustMRR 验证](https://trustmrr.com/startup/ai-toolbox)，2026-10）· 2–5 人 · 在售
+
+**是什么**：Chrome 扩展，给 ChatGPT、Gemini、Claude、Grok 的网页版加上文件夹、全文搜索、提示词库和批量导出。原名 ChatGPT Toolbox。
+
+**值得学什么**：AI 聊天网页版缺整理功能，它用扩展补上；先只做 ChatGPT，后来扩到四个平台，同一批用户能多卖几份。收入主要来自买断：每个平台 $9.99/月、$59/年或 $99 买断，四个平台一起买断 $199。所以 TrustMRR 算出的 MRR 只有约 $1.3k，近 30 天收入却有约 $2.2 万；过去一年，月收入从约 $2.3k 涨到了约 $2.2 万。和 ShipFast 一样，买断要不停找新用户：免费版功能给得全，但每项都设了上限（比如搜索只显示前 5 条、只能建 2 个文件夹），Chrome 商店上有约 4 万用户、4.7 分。风险是功能做在别人的页面上，平台一改版或者自己做了这些功能，扩展就得跟着改。
+
+发现于：[TrustMRR](#看谁在赚钱) · 最后核实：2026-10
+
 #### [Publbee](https://www.publbee.com/)
 
 内容创作工具 · 约 $3k MRR（[TrustMRR 验证](https://trustmrr.com/startup/publbee)，2026-09）· 2–5 人 · 在售
